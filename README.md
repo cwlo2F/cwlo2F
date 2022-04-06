@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @cwlo2F, who is a small mathematician at somewhere.
-- 👀 I’m interested in number theory, algebraic geometry.
-- 👀 ... also in programming language theory.
-- 🌱 I’m currently learning various algebra stuffs and Rust.
+- 👋 Hi, I’m @cwlo2F, a small mathematician at somewhere.
+- 👀 I’m interested in...
+  * Number theory
+  * Algebraic Geometry (almost do not know anything)
+  * Programming Language Theory
+- 🌱 I’m currently learning...
+  * Modular forms
+  * Computational Number Theory
+  * Coq, via Software Foundations
+  * Rust
 - 📫 My email is cwlo2F@gmail.com
 
 <!---
