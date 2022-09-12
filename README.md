@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @cwlo2F, a small mathematician at somewhere.
-- 👀 I’m interested in...
-  * Number theory
-  * Algebraic Geometry (almost do not know anything)
-  * Programming Language Theory
-- 🌱 I’m currently learning...
-  * Modular forms
-  * Computational Number Theory
-  * Coq, via Software Foundations
-  * Rust
-- 📫 My email is cwlo2F@gmail.com
+- 👋 Hi, I’m @cwlo2F, a small mathematician.
+- 📫 My email is cwlo2F@gmail.com.
 
 <!---
 cwlo2F/cwlo2F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
