@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cwlo2F, a small mathematician.
-- 📫 My email is cwlo2F@gmail.com.
+- 👋 Hi, I’m Kisoo Kim, a small mathematics student.
+- 📫 kisoo.math@gmail.com
 
 <!---
 cwlo2F/cwlo2F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
